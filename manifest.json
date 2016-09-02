@@ -1,0 +1,7 @@
+{
+  "name": "DevChat",
+  "short_name": "DevChat",
+  "start_url": "/index.html",
+  "display": "standalone",
+  "orientation": "portrait"
+}

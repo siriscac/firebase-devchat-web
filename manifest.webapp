@@ -1,0 +1,22 @@
+{
+  "version": "1.0.0",
+  "name": "DevChat",
+  "launch_path": "/index.html",
+  "description": "Chat with developers at DevFest Chennai 16 using Firebase 2.0",
+  "developer": {
+    "name": "Muthuramakrishnan",
+    "url": "https://github.com/siriscac"
+  },
+  "installs_allowed_from": [
+    "*"
+  ],
+  "default_locale": "en",
+  "permissions": {
+  },
+  "locales": {
+    "en": {
+      "name": "DevChat",
+      "description": "Chat with developers at DevFest Chennai 16 using Firebase 2.0"
+    }
+  }
+}
